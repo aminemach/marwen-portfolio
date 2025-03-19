@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/marwen-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/marwen-portfolio/static/js/main.b1271a71.js",
+    "main.js": "/marwen-portfolio/static/js/main.6e8d979e.js",
     "static/js/453.961c9fba.chunk.js": "/marwen-portfolio/static/js/453.961c9fba.chunk.js",
     "static/media/logo.svg": "/marwen-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/marwen-portfolio/index.html",
     "main.f855e6bc.css.map": "/marwen-portfolio/static/css/main.f855e6bc.css.map",
-    "main.b1271a71.js.map": "/marwen-portfolio/static/js/main.b1271a71.js.map",
+    "main.6e8d979e.js.map": "/marwen-portfolio/static/js/main.6e8d979e.js.map",
     "453.961c9fba.chunk.js.map": "/marwen-portfolio/static/js/453.961c9fba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b1271a71.js"
+    "static/js/main.6e8d979e.js"
   ]
 }
